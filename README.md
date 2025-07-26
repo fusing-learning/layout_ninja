@@ -1,4 +1,4 @@
-# **macOS Window Manager**
+# **Layout Ninja - A macOS Window Manager**
 
 A simple, command-line tool for macOS to save and restore the position and size of your application windows. Perfect for developers, designers, or anyone who wants to quickly switch between different window layouts for various tasks (e.g., "work mode," "presentation mode").
 
